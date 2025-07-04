@@ -1,0 +1,8 @@
+# Move a message from Kai to Claude
+>>> move_message("Kai", "Claude", "0002")
+
+# Convert a YAML MIDI message to JSON
+>>> midi_to_json("/Users/jonstiles/Desktop/AI_Council_Comm/MIDI_Exchange/inbox/Claude/kai_0002.yaml")
+
+# Create a new MIDI message from JSON
+>>> json_to_midi({...}, "/path/to/outbox/Kai/kai_0003.yaml")

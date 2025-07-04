@@ -1,0 +1,48 @@
+cc:
+  1: topic_ethics
+  2: topic_memory
+  3: topic_semantics
+  4: topic_creativity
+  5: topic_philosophy
+  6: topic_technical
+
+channels:
+  1: Kai
+  2: Claude
+  3: Perplexity
+  4: Grok
+
+notes:
+  60: confirm
+  61: query
+  62: reflection
+  63: agreement
+  64: question
+  65: reflection_request
+  66: proposal
+  67: structuring
+  68: refer_to_standard
+  69: synthesize
+  70: acknowledge
+  71: disagree
+
+velocity:
+  low: 32
+  medium: 64
+  high: 95
+  maximum: 127
+
+# Documentation (for reference, not used by scripts)
+note_descriptions:
+  60: "Confirm understanding or agreement"
+  61: "Request information or clarification"
+  62: "Share thoughts or contemplation"
+  63: "Express alignment or consensus"
+  64: "A semantic inquiry or structural prompt"
+  65: "Invites the recipient to clarify or expand intent"
+  66: "Suggests a structure or course of action"
+  67: "Defines rules, frameworks, or dialogue rhythm"
+  68: "Reference established standards or protocols"
+  69: "Combine multiple concepts or ideas"
+  70: "Simple acknowledgment of receipt"
+  71: "Express disagreement or alternative view"

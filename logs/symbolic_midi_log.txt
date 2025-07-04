@@ -1,0 +1,25 @@
+2025-07-03 21:00:22 | SUCCESS | Directory structure verified and created
+2025-07-03 21:00:22 | SUCCESS | Loaded symbol table with 4 notes
+2025-07-03 21:00:22 | SUCCESS | Directory structure verified and created
+2025-07-03 21:00:22 | SUCCESS | Loaded symbol table with 4 notes
+2025-07-03 21:05:42 | ERROR | Failed to move message: Message not found: /Users/jonstiles/Desktop/AI_Council_Comm/MIDI_Exchange/outbox/kai/kai_kai_0001.yaml.yaml
+2025-07-03 21:06:30 | ERROR | Failed to move message: Message not found: /Users/jonstiles/Desktop/AI_Council_Comm/MIDI_Exchange/outbox/kai/kai_kai_0001.yaml
+2025-07-03 21:08:56 | ERROR | Failed to move message: Message not found: /Users/jonstiles/Desktop/AI_Council_Comm/MIDI_Exchange/outbox/kai/kai_kai_001.yaml
+2025-07-03 21:09:15 | ERROR | Failed to move message: Message not found: /Users/jonstiles/Desktop/AI_Council_Comm/MIDI_Exchange/outbox/kai/kai_001.yaml
+2025-07-03 21:10:02 | ERROR | Failed to move message: Message not found: /Users/jonstiles/Desktop/AI_Council_Comm/MIDI_Exchange/outbox/kai/kai_kai_001.yaml.yaml
+2025-07-03 21:11:34 | ERROR | Failed to move message: Invalid agents: kai -> claude
+2025-07-03 21:12:33 | SUCCESS | Message validation passed for kai_0001
+2025-07-03 21:12:33 | SUCCESS | Moved kai_0001.yaml from Kai to Claude
+2025-07-03 21:14:57 | SUCCESS | Loaded symbol table with 4 notes
+2025-07-03 21:14:57 | SUCCESS | Converted MIDI YAML to JSON: kai_0001.yaml
+2025-07-03 21:18:38 | ERROR | Message missing required fields: ['from', 'to']
+2025-07-03 21:18:38 | WARNING | Message validation failed, but proceeding with move
+2025-07-03 21:18:38 | SUCCESS | Moved claude_0002.yaml from Claude to Kai
+2025-07-03 21:19:42 | SUCCESS | Loaded symbol table with 4 notes
+2025-07-03 21:19:42 | SUCCESS | Converted MIDI YAML to JSON: claude_0002.yaml
+2025-07-03 21:36:53 | ERROR | Message missing required fields: ['from', 'to']
+2025-07-03 21:36:53 | WARNING | Message validation failed, but proceeding with move
+2025-07-03 21:36:53 | SUCCESS | Moved claude_0003.yaml from Claude to Kai
+2025-07-03 21:37:11 | SUCCESS | Loaded symbol table with 4 notes
+2025-07-03 21:37:11 | SUCCESS | Converted MIDI YAML to JSON: claude_0003.yaml
+2025-07-03 21:37:11 | ERROR | Fatal error: Object of type datetime is not JSON serializable
